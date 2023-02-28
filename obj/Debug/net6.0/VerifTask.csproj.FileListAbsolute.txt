@@ -1,0 +1,15 @@
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\VerifTask.csproj.AssemblyReference.cache
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\VerifTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\VerifTask.AssemblyInfoInputs.cache
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\VerifTask.AssemblyInfo.cs
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\VerifTask.csproj.CoreCompileInputs.cache
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\bin\Debug\net6.0\VerifTask.exe
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\bin\Debug\net6.0\VerifTask.deps.json
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\bin\Debug\net6.0\VerifTask.runtimeconfig.json
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\bin\Debug\net6.0\VerifTask.dll
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\bin\Debug\net6.0\VerifTask.pdb
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\VerifTask.dll
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\refint\VerifTask.dll
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\VerifTask.pdb
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\VerifTask.genruntimeconfig.cache
+C:\Users\mings\OneDrive\Рабочий стол\prog\VerifTask\obj\Debug\net6.0\ref\VerifTask.dll
